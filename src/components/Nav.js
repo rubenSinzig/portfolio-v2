@@ -1,4 +1,3 @@
-import App from "../App";
 import logo from "../images/logo-portfolio.png";
 
 const Nav = () => {
