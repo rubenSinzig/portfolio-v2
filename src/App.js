@@ -2,6 +2,7 @@ import React from "react";
 import Nav from "./components/Nav";
 import Welcome from "./components/Welcome";
 import About from "./components/About";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Nav />
       <Welcome />
       <About />
+      <Projects />
     </React.Fragment>
   );
 }
